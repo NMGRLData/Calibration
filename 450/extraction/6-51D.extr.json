@@ -1,0 +1,29 @@
+{
+    "beam_diameter": "1.2", 
+    "cleanup_duration": 30.0, 
+    "commit": "56d01c55e990658285bffd1065181d5485b2b85b", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 40.0, 
+    "extract_units": "watts", 
+    "extract_value": 5.0, 
+    "grain_polygon_blob": [], 
+    "measured_response": "+4m1TgAAAAAg1dM9AAD6RLDhBkAAAPpElpKDQAAA+kTKisNAAAD6RA/9AUEAAPpE0PohQQAA+kQi+UFBAAD6RAf8YUEAAPpEjgGBQQAA+kS9BJFBAAD6RPUQoUEAAPpEGBGxQQAA+kQ5IMFBAAD6RP8q0UEAAPpEkTHhQQAA+kQKQPFBAAD6RBenAEIAAPpEzqgIQgAA+kSbuRBCAAD6RMO/GEIAAPpEuMIgQgAA+kTEwShCAAD6RA==", 
+    "pattern": "", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "13", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "requested_output": "+4m1TgAAAAAg1dM9ZbyvQbDhBkAAAAAAlpKDQAAAAADKisNAvhm5QQ/9AUG+GblB0PohQb4ZuUEi+UFBvhm5QQf8YUG+GblBjgGBQb4ZuUG9BJFBvhm5QfUQoUG+GblBGBGxQb4ZuUE5IMFBvhm5Qf8q0UG+GblBkTHhQb4ZuUEKQPFBvhm5QRenAEK+GblBzqgIQr4ZuUGbuRBCvhm5QcO/GEK+GblBuMIgQr4ZuUHEwShCvhm5QQ==", 
+    "setpoint_stream": "", 
+    "snapshots": [], 
+    "tray": "", 
+    "videos": [], 
+    "weight": 0.0
+}
