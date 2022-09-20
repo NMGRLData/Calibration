@@ -1,0 +1,30 @@
+{
+    "H2": {
+        "center_dac": 3.77294615230461,
+        "center_signal": 0.13330343111167306,
+        "high_dac": 3.7735200000000004,
+        "high_resolving_power": Infinity,
+        "high_signal": 0.133303431111673,
+        "low_dac": 3.772372304609219,
+        "low_resolving_power": Infinity,
+        "low_signal": 0.133303431111673,
+        "points": "QHFugz4IgLJAcW9UPgiAskBxcCY+CICyQHFw+D4IgLJAcXHJPgiAskBxcps+CICyQHFzbT4IgLJAcXQ/PgiAskBxdRA+CICyQHF14j4IgLJAcXa0PgiAskBxd4U+CICyQHF4Vz4IgLJAcXkpPgiAskBxefs+CICyQHF6zD4IgLJAcXuePgiAskBxfHA+CICyQHF9QT4IgLJAcX4TPgiAskBxfuU+CICyQHF/tz4IgLJAcYCIPgiAskBxgVo+CICy",
+        "resolution": 3287.4107386070355
+    },
+    "L2(CDD)": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QHFugwAAAABAcW9UAAAAAEBxcCYAAAAAQHFw+AAAAABAcXHJAAAAAEBxcpsAAAAAQHFzbQAAAABAcXQ/AAAAAEBxdRAAAAAAQHF14gAAAABAcXa0AAAAAEBxd4UAAAAAQHF4VwAAAABAcXkpAAAAAEBxefsAAAAAQHF6zAAAAABAcXueAAAAAEBxfHAAAAAAQHF9QQAAAABAcX4TAAAAAEBxfuUAAAAAQHF/twAAAABAcYCIAAAAAEBxgVoAAAAA",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "L2(CDD)",
+    "reference_isotope": "Ar36"
+}
