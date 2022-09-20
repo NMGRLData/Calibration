@@ -1,0 +1,39 @@
+{
+    "beam_diameter": "4.0",
+    "cleanup_duration": 45.0,
+    "commit": "0fe51a58c24ce892f6fc82c931b73877643e1b9b",
+    "cryo_temperature": 0.0,
+    "extract_device": "Fusions Diode",
+    "extract_duration": 60.0,
+    "extract_units": "watts",
+    "extract_value": 18.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0.0,
+    "load_holder": "145-hole",
+    "load_name": "D0133",
+    "measured_response": "sFPGTgAAAAAQxgY+AAD6RAJfCEAAAPpEuiqEQAAA+kQ+I8RAAAD6RMcNAkEAAPpEvjUiQQAA+kS7O0JBAAD6RFpEYkEAAPpEKSWBQQAA+kQuKpFBAAD6RGcooUEAAPpEziaxQQAA+kTIJcFBAAD6RAYm0UEAAPpEQinhQQAA+kSOO/FBAAD6RIiiAEIAAPpE3KYIQgAA+kT1pRBCAAD6RCClGEIAAPpEzaUgQgAA+kT+pShCAAD6RAilMEIAAPpE86Q4QgAA+kQEpEBCAAD6RFWjSEIAAPpEmqNQQgAA+kQtpVhCAAD6REykYEIAAPpElaNoQgAA+kRXpXBCAAD6RGCkeEIAAPpEklOAQgAA+kRpU4RCAAD6RPNSiEIAAPpEdleMQgAA+kQIWJBCAAD6RMpYlEIAAPpET1iYQgAA+kT3V5xCAAD6RHtXoEIAAPpEwFikQgAA+kRQWKhCAAD6RAhYrEIAAPpEj1ewQgAA+kTgW7RCAAD6RGVfuEIAAPpE9F68QgAA+kSAXsBCAAD6RBpexEIAAPpEjF7IQgAA+kQ=",
+    "pattern": "",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 34,
+            "x": 0.0,
+            "y": 7.239,
+            "z": 13.0
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 20.0,
+    "ramp_rate": 0.0,
+    "requested_output": "sFPGTgAAAAAQxgY+g3sUQgJfCEAAAAAAuiqEQOm2MUI+I8RA6bYxQscNAkHptjFCvjUiQem2MUK7O0JB6bYxQlpEYkHptjFCKSWBQem2MUIuKpFB6bYxQmcooUHptjFCziaxQem2MULIJcFB6bYxQgYm0UEAAAAAQinhQQAAAACOO/FBAAAAAIiiAEIAAAAA3KYIQgAAAAD1pRBCAAAAACClGEIAAAAAzaUgQgAAAAD+pShCAAAAAAilMEIAAAAA86Q4QgAAAAAEpEBCAAAAAFWjSEIAAAAAmqNQQgAAAAAtpVhCAAAAAEykYEIAAAAAlaNoQgAAAABXpXBCAAAAAGCkeEIAAAAAklOAQgAAAABpU4RCAAAAAPNSiEIAAAAAdleMQgAAAAAIWJBCAAAAAMpYlEIAAAAAT1iYQgAAAAD3V5xCAAAAAHtXoEIAAAAAwFikQgAAAABQWKhCAAAAAAhYrEIAAAAAj1ewQgAAAADgW7RCAAAAAGVfuEIAAAAA9F68QgAAAACAXsBCAAAAABpexEIAAAAAjF7IQgAAAAA=",
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [
+        "SMB://agustin.nmbgmr.nmt.edu/argon/FusionsDiode/D0133/4506-121B-001.avi"
+    ],
+    "weight": 3.02
+}
